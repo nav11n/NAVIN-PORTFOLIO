@@ -1,0 +1,104 @@
+#fon{
+    font-family: verdana;
+}
+#name{
+    padding-left: 60px;
+}
+#pad{
+    padding: 50px;
+}
+td{
+    font-size: large;
+    
+}
+#div1{
+    display: flex;
+    background-color: #99ccff;
+    height: 320px;
+    
+}
+#bg1{
+    background-color: #99ccff;
+    height : 320px;
+    text-align: center;
+}
+#div2{
+    float:left;
+    width: 65%;
+    padding-left: 50px;
+    
+}
+#div22{
+    flex: 50%;
+    padding-left: 50px;
+
+}
+#ab{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+#img{
+    padding-left: 300px;
+    height: 270px;
+    width: 250px;
+    padding-top: 20px;
+    padding-right: 35px;
+}
+#adiv{
+    height: 300px;
+}
+#im2{
+    float: left;
+    width: 35%;;
+}
+#img2{
+    height: 300px;
+    width: 300px;
+    padding-left: 80px;
+}
+#rig{
+    float: right;
+    padding-left: 50px;
+    padding-top: 25px;
+    width:55%;
+    padding-right: 30px;
+}
+#row{
+    display: flex;
+    padding-top: 20px;
+}
+#col{
+    flex:25%;
+
+}
+
+#proj{
+    
+    height: 350px;
+}
+#proj1{
+    height: 250px;
+    display: flex;
+}
+#end{
+    height: 300px;
+    background-color: #99ccff;
+    padding-left: 20px;
+}
+#col2{
+    flex:30%;
+}
+p1{
+    flex: 30%;
+}
+.button {
+    background-color: #2b3adc; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+  }
